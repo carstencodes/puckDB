@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/carsten/dev/python/puckdb/venv/bin/python3",
+    "python.linting.pylintEnabled": true
+}
